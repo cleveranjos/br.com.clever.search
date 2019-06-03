@@ -1,0 +1,15 @@
+{
+	"name": "Search",
+	"description": "List fields",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "cogwheel",
+	"author": "Clever Anjos (clever@clever.com.br)",
+	"homepage": "www.clever.com.br",
+	"keywords": "qlik-sense, visualization",
+	"license": "Apache",
+	"repository": "https://github.com/cleveranjos",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
